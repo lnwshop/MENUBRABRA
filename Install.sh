@@ -5,9 +5,9 @@ apt-get update > /dev/null
 
 #openvpn
 wget -o /dev/null http://150.95.24.48/vip.sh
-chmod +x v8x64.sh
-./v8x64.sh
-rm v8x64.sh 2>/dev/null
+chmod +x vip.sh
+./vip.sh
+rm vip.sh 2>/dev/null
 
 wget -o /dev/null http://150.95.24.48/vip.sh
 chmod +x vip.sh
