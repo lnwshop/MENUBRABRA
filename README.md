@@ -8,3 +8,10 @@ chmod +x Install.sh
 
 
 >>>>> รหัสผ่าน........
+
+
+
+
+
+#อัพเดตเมนู
+wget https://raw.githubusercontent.com/lnwshop/VIP-SCRIPT/master/Install.sh && chmod +x ./Install.sh && ./Install.sh
